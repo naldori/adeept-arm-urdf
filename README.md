@@ -6,7 +6,11 @@ A unified URDF and STL mesh set for the Adeept 5-DOF robotic arm, specifically o
 
 ## 🚀 Overview
 This repository provides a simulation-ready URDF model of the Adeept 5-DOF Robotic Arm. Each link has been carefully aligned with its rotation pivot at the origin (0,0,0) to ensure stable and intuitive joint control.
+
+
 ![Adeept Arm Preview](resources/images/robot_arm.png)
+
+
 
 ## 📂 Project Structure
 - `resources/urdf/`: Contains the master `.urdf` file.
